@@ -77,6 +77,10 @@ form button:hover{
     background-color: rgb(0, 105, 0);
 }
 
+.contactsP{
+    color: brown;
+}
+
 @media (min-width: 480px) {
     .form-contact {
         display: flex;
